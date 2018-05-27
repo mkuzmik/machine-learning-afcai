@@ -1,0 +1,1357 @@
+ID;Category;Nr;V_H;Description;Valence;Arousal
+Animals_001_h;Animals;1;h;Dead Stork;2,57;6,44
+Animals_002_v;Animals;2;v;Lion;6,24;6,68
+Animals_003_h;Animals;3;h;Snake;5,24;5,52
+Animals_004_v;Animals;4;v;Wolf;4,50;7,02
+Animals_005_h;Animals;5;h;Bat;5,31;5,82
+Animals_006_v;Animals;6;v;Snake;5,13;6,23
+Animals_007_h;Animals;7;h;Wolf;4,76;7,06
+Animals_008_v;Animals;8;v;Fighting Chickens;2,63;6,80
+Animals_009_v;Animals;9;v;Cat;5,79;5,61
+Animals_010_h;Animals;10;h;Sick Kitten;4,59;5,90
+Animals_011_h;Animals;11;h;Black Panther;5,00;7,35
+Animals_012_h;Animals;12;h;Fighting Dogs;3,62;6,78
+Animals_013_h;Animals;13;h;Dead Deer;2,90;6,73
+Animals_014_h;Animals;14;h;Snake;5,14;6,00
+Animals_015_h;Animals;15;h;Snake;4,57;5,90
+Animals_016_h;Animals;16;h;Dead Hamster;2,67;6,92
+Animals_017_v;Animals;17;v;Dead Bird;3,23;5,54
+Animals_018_h;Animals;18;h;Dead Frog;3,34;6,17
+Animals_019_h;Animals;19;h;Dead Kangaroo;2,68;6,40
+Animals_020_h;Animals;20;h;Alligator;5,34;6,43
+Animals_021_h;Animals;21;h;Small Alligators;4,60;6,27
+Animals_022_h;Animals;22;h;Small Alligators;5,74;5,75
+Animals_023_h;Animals;23;h;Dog'S Teeth;4,36;6,10
+Animals_024_h;Animals;24;h;Dead Cat;2,44;6,75
+Animals_025_h;Animals;25;h;Sheep;2,65;6,63
+Animals_026_h;Animals;26;h;Snake;5,35;5,88
+Animals_027_h;Animals;27;h;Dead Bird;2,55;6,34
+Animals_028_h;Animals;28;h;Bat'S Teeth;5,55;6,10
+Animals_029_v;Animals;29;v;Horse Legs;3,10;6,13
+Animals_030_h;Animals;30;h;Snake;4,74;6,33
+Animals_031_h;Animals;31;h;Fly;4,58;5,38
+Animals_032_h;Animals;32;h;Kangaroo Skeleton;2,96;6,30
+Animals_033_h;Animals;33;h;Dead Bird;2,41;6,61
+Animals_034_h;Animals;34;h;Dog'S Teeth;3,79;6,85
+Animals_035_h;Animals;35;h;Snake;5,08;6,13
+Animals_036_h;Animals;36;h;Horses;4,15;6,00
+Animals_037_h;Animals;37;h;Tick;3,03;6,69
+Animals_038_h;Animals;38;h;Dead Wild Boar;2,96;6,68
+Animals_039_h;Animals;39;h;Dead Dog;2,46;7,19
+Animals_040_v;Animals;40;v;Bees;6,29;5,49
+Animals_041_h;Animals;41;h;Insect;3,52;6,59
+Animals_042_h;Animals;42;h;Mosquito;2,82;6,32
+Animals_043_h;Animals;43;h;Insects;5,30;5,39
+Animals_044_h;Animals;44;h;Bees;5,32;5,70
+Animals_045_h;Animals;45;h;Dead Bird;3,02;6,82
+Animals_046_h;Animals;46;h;Snake;5,65;5,58
+Animals_047_h;Animals;47;h;Lion;4,94;5,79
+Animals_048_h;Animals;48;h;Starved Dog;2,85;6,62
+Animals_049_h;Animals;49;h;Sick Dog;3,70;5,88
+Animals_050_h;Animals;50;h;Dog;3,55;6,45
+Animals_051_h;Animals;51;h;Sick Birds;4,45;5,76
+Animals_052_v;Animals;52;v;Spider;4,04;6,80
+Animals_053_h;Animals;53;h;Monkey;3,49;5,73
+Animals_054_h;Animals;54;h;Starved Dog;2,64;6,53
+Animals_055_h;Animals;55;h;Shark;5,98;5,57
+Animals_056_h;Animals;56;h;Dead Cat;1,86;7,50
+Animals_057_h;Animals;57;h;Dead Crow;2,92;5,69
+Animals_058_h;Animals;58;h;Snake;5,02;6,14
+Animals_059_h;Animals;59;h;Spider;4,52;6,50
+Animals_060_h;Animals;60;h;Sick Snow Leopard;3,02;6,59
+Animals_061_h;Animals;61;h;Dog;4,20;6,61
+Animals_062_h;Animals;62;h;Dead Cow;2,49;6,49
+Animals_063_h;Animals;63;h;Dead Deer;2,47;7,06
+Animals_064_v;Animals;64;v;Dead Fish;2,96;5,98
+Animals_065_h;Animals;65;h;Worms;3,84;6,00
+Animals_066_h;Animals;66;h;Pigs;4,36;5,78
+Animals_067_h;Animals;67;h;Dead Mouse;2,96;6,00
+Animals_068_h;Animals;68;h;Dead Chinchillas;2,56;6,63
+Animals_069_h;Animals;69;h;Spider;4,65;6,50
+Animals_070_h;Animals;70;h;Snake;5,52;6,08
+Animals_071_h;Animals;71;h;Dead Moose;2,35;6,68
+Animals_072_h;Animals;72;h;Snake;5,00;6,36
+Animals_073_h;Animals;73;h;Dead Lion;3,80;7,35
+Animals_074_h;Animals;74;h;Starved Dog;1,70;7,37
+Animals_075_h;Animals;75;h;Sick Chinchilla;3,04;6,43
+Animals_076_v;Animals;76;v;Dog;3,68;6,47
+Animals_077_h;Animals;77;h;Sick Dog;2,02;7,48
+Animals_078_h;Animals;78;h;Dead Mouse;2,26;6,68
+Animals_079_h;Animals;79;h;Snake;4,80;5,94
+Animals_080_h;Animals;80;h;Monkey;5,55;5,96
+Animals_081_h;Animals;81;h;Insects;4,87;5,43
+Animals_082_h;Animals;82;h;Beetle;5,52;4,61
+Animals_083_h;Animals;83;h;Cat;5,23;5,76
+Animals_084_h;Animals;84;h;Worms;3,83;6,08
+Animals_085_h;Animals;85;h;Lion;5,87;6,63
+Animals_086_v;Animals;86;v;Cat;4,45;5,43
+Animals_087_h;Animals;87;h;Bat;5,67;5,94
+Animals_088_h;Animals;88;h;Fish;5,54;4,54
+Animals_089_v;Animals;89;v;Lizard;6,76;4,44
+Animals_090_h;Animals;90;h;Pelicans;7,44;2,94
+Animals_091_h;Animals;91;h;Pelicans;6,56;4,24
+Animals_092_h;Animals;92;h;Dog;6,65;4,29
+Animals_093_h;Animals;93;h;Dead Butterfly;5,38;4,72
+Animals_094_h;Animals;94;h;Alligator;6,17;4,91
+Animals_095_h;Animals;95;h;Duck;7,12;2,75
+Animals_096_h;Animals;96;h;Dogs;6,79;5,00
+Animals_097_h;Animals;97;h;Cow;6,48;3,76
+Animals_098_h;Animals;98;h;Monkeys;6,82;4,40
+Animals_099_h;Animals;99;h;Cow;7,23;3,05
+Animals_100_h;Animals;100;h;Flamingo;7,42;3,51
+Animals_101_v;Animals;101;v;Cat;7,42;4,39
+Animals_102_h;Animals;102;h;Leopard;6,27;5,63
+Animals_103_h;Animals;103;h;Kangaroo;6,31;4,86
+Animals_104_h;Animals;104;h;Pigeon;6,02;4,18
+Animals_105_h;Animals;105;h;Hen;5,35;4,77
+Animals_106_h;Animals;106;h;Butterfly;6,69;5,31
+Animals_107_h;Animals;107;h;Fish;6,20;4,83
+Animals_108_h;Animals;108;h;Hippopotamus;6,43;4,13
+Animals_109_h;Animals;109;h;Cat;7,02;4,51
+Animals_110_h;Animals;110;h;Sea Lions;4,30;5,66
+Animals_111_h;Animals;111;h;Bats;4,78;6,10
+Animals_112_v;Animals;112;v;Fish;6,68;4,90
+Animals_113_h;Animals;113;h;Horse;6,92;3,51
+Animals_114_h;Animals;114;h;Cat;6,84;4,02
+Animals_115_h;Animals;115;h;Cat;6,65;4,17
+Animals_116_h;Animals;116;h;Ladybug;7,02;4,43
+Animals_117_h;Animals;117;h;Monkey;7,09;5,03
+Animals_118_h;Animals;118;h;Monkey;6,79;4,65
+Animals_119_h;Animals;119;h;Crow;6,03;4,22
+Animals_120_h;Animals;120;h;Monkeys;6,71;4,73
+Animals_121_h;Animals;121;h;Bull;5,96;4,75
+Animals_122_h;Animals;122;h;Monkeys;6,78;5,18
+Animals_123_h;Animals;123;h;Duck;7,38;3,13
+Animals_124_v;Animals;124;v;Goats;6,37;3,62
+Animals_125_h;Animals;125;h;Monkeys;6,99;4,54
+Animals_126_h;Animals;126;h;Camels;6,77;3,54
+Animals_127_h;Animals;127;h;Snails;5,07;5,26
+Animals_128_h;Animals;128;h;Horses;6,60;4,15
+Animals_129_h;Animals;129;h;Fish;5,22;5,02
+Animals_130_h;Animals;130;h;Lizard;6,34;5,02
+Animals_131_h;Animals;131;h;Ducks;7,62;3,92
+Animals_132_h;Animals;132;h;Swans;7,08;3,07
+Animals_133_h;Animals;133;h;Cat;4,85;5,01
+Animals_134_h;Animals;134;h;Dog;7,10;4,76
+Animals_135_v;Animals;135;v;Insect;6,17;4,25
+Animals_136_h;Animals;136;h;Cat;6,81;3,33
+Animals_137_h;Animals;137;h;Camels;7,37;4,44
+Animals_138_h;Animals;138;h;Chicken;5,51;5,66
+Animals_139_h;Animals;139;h;Fish;6,37;3,98
+Animals_140_h;Animals;140;h;Fish;7,21;2,76
+Animals_141_h;Animals;141;h;Monkey;4,93;5,52
+Animals_142_h;Animals;142;h;Snake;4,53;5,98
+Animals_143_h;Animals;143;h;Snake;4,24;6,58
+Animals_144_h;Animals;144;h;Alligator;6,08;5,35
+Animals_145_h;Animals;145;h;Snake;5,49;5,62
+Animals_146_h;Animals;146;h;Cow;6,57;3,91
+Animals_147_v;Animals;147;v;Lizard;7,18;4,31
+Animals_148_h;Animals;148;h;Sea Lion;5,35;5,28
+Animals_149_v;Animals;149;v;Bird;7,00;4,21
+Animals_150_h;Animals;150;h;Sea Lions;5,96;4,80
+Animals_151_v;Animals;151;v;Worm;4,40;6,16
+Animals_152_h;Animals;152;h;Black Swan;6,78;3,92
+Animals_153_v;Animals;153;v;Turtle;6,89;4,26
+Animals_154_h;Animals;154;h;Cow;5,80;4,84
+Animals_155_v;Animals;155;v;Cat;6,96;3,91
+Animals_156_h;Animals;156;h;Fish;7,86;3,02
+Animals_157_h;Animals;157;h;Fish;7,29;3,25
+Animals_158_h;Animals;158;h;Cats;7,51;3,43
+Animals_159_h;Animals;159;h;Fish;7,20;3,61
+Animals_160_h;Animals;160;h;Seahorses;7,18;3,91
+Animals_161_h;Animals;161;h;Fish;7,48;3,38
+Animals_162_h;Animals;162;h;Lizards;6,20;4,79
+Animals_163_h;Animals;163;h;Llama;7,70;4,29
+Animals_164_h;Animals;164;h;Sea Lion;5,96;4,40
+Animals_165_h;Animals;165;h;Goats;6,92;5,25
+Animals_166_v;Animals;166;v;Cats;8,27;3,33
+Animals_167_h;Animals;167;h;Cat;7,43;4,04
+Animals_168_h;Animals;168;h;Cat;6,71;4,27
+Animals_169_h;Animals;169;h;Turtle;6,98;3,65
+Animals_170_h;Animals;170;h;Turtle;7,00;3,63
+Animals_171_h;Animals;171;h;Boar;6,07;5,08
+Animals_172_h;Animals;172;h;Peacock;7,71;4,71
+Animals_173_h;Animals;173;h;Seal;7,48;4,76
+Animals_174_h;Animals;174;h;Lizards;6,08;4,85
+Animals_175_h;Animals;175;h;Dog;7,40;5,63
+Animals_176_h;Animals;176;h;Baby Dear;6,46;5,13
+Animals_177_h;Animals;177;h;Dog;8,09;4,37
+Animals_178_v;Animals;178;v;Dog;6,74;5,43
+Animals_179_h;Animals;179;h;Dogs;7,51;5,38
+Animals_180_h;Animals;180;h;Dog;6,90;4,84
+Animals_181_h;Animals;181;h;Butterfly;6,65;4,40
+Animals_182_h;Animals;182;h;Butterfly;7,09;4,09
+Animals_183_h;Animals;183;h;Dog;7,65;4,29
+Animals_184_h;Animals;184;h;Cows;7,96;2,40
+Animals_185_h;Animals;185;h;Birds;6,94;3,50
+Animals_186_h;Animals;186;h;Dolphins;7,86;4,61
+Animals_187_h;Animals;187;h;Dolphins;7,87;4,31
+Animals_188_h;Animals;188;h;Frog;7,22;4,13
+Animals_189_v;Animals;189;v;Turtle;7,14;3,67
+Animals_190_h;Animals;190;h;Dog;5,69;5,12
+Animals_191_h;Animals;191;h;Kitten;7,22;4,38
+Animals_192_h;Animals;192;h;Cat;6,72;3,84
+Animals_193_h;Animals;193;h;Butterfly;6,78;4,02
+Animals_194_h;Animals;194;h;Dog;6,57;4,24
+Animals_195_h;Animals;195;h;Cat;5,83;4,88
+Animals_196_h;Animals;196;h;Dog;7,15;4,56
+Animals_197_h;Animals;197;h;Kangaroo;6,83;5,15
+Animals_198_h;Animals;198;h;Lion;6,24;5,53
+Animals_199_h;Animals;199;h;Horse;5,88;4,46
+Animals_200_v;Animals;200;v;Cat;5,11;5,80
+Animals_201_h;Animals;201;h;Turtle;7,92;3,35
+Animals_202_h;Animals;202;h;Cat;7,00;4,92
+Animals_203_h;Animals;203;h;Dog;6,35;4,72
+Animals_204_h;Animals;204;h;Frogs;6,41;4,74
+Animals_205_h;Animals;205;h;Squirrel;6,87;4,62
+Animals_206_h;Animals;206;h;Chinchilla;7,02;4,51
+Animals_207_h;Animals;207;h;Dog'S Teeth;3,06;6,69
+Animals_208_h;Animals;208;h;Kitten;7,41;4,29
+Animals_209_h;Animals;209;h;Dog;5,65;4,54
+Animals_210_v;Animals;210;v;Guinea Pig;6,45;3,92
+Animals_211_h;Animals;211;h;Boars;5,67;5,09
+Animals_212_v;Animals;212;v;Parrot;6,68;4,92
+Animals_213_h;Animals;213;h;Little Elephants;5,98;5,16
+Animals_214_h;Animals;214;h;Cow;6,33;3,96
+Animals_215_v;Animals;215;v;Monkey;6,42;5,11
+Animals_216_v;Animals;216;v;Shrimps;5,26;5,79
+Animals_217_h;Animals;217;h;Pigeons;6,20;4,02
+Animals_218_h;Animals;218;h;Ducks;5,77;4,36
+Animals_219_h;Animals;219;h;Llamas;7,50;2,94
+Animals_220_h;Animals;220;h;Fish;8,02;3,26
+Animals_221_h;Animals;221;h;Worms;3,63;6,48
+Faces_001_h;Faces;1;h;Children With A Dog;7,76;4,24
+Faces_002_v;Faces;2;v;Woman With A Dog;7,88;4,90
+Faces_003_h;Faces;3;h;Children;3,10;6,77
+Faces_004_h;Faces;4;h;Baby Crying;6,23;5,80
+Faces_005_h;Faces;5;h;Baby In Incubator;5,64;5,02
+Faces_006_h;Faces;6;h;Girl;4,73;4,88
+Faces_007_h;Faces;7;h;Amputee Boy;2,87;6,65
+Faces_008_h;Faces;8;h;Child Crying;5,21;6,00
+Faces_009_h;Faces;9;h;Hurting Child;2,48;6,80
+Faces_010_h;Faces;10;h;Child With Burns;2,24;7,73
+Faces_011_h;Faces;11;h;Sick Child;3,25;5,42
+Faces_012_v;Faces;12;v;Sad Girl;3,70;5,91
+Faces_013_h;Faces;13;h;Child In A Rescue Sled;3,11;6,42
+Faces_014_h;Faces;14;h;Children;3,95;6,23
+Faces_015_h;Faces;15;h;Children;4,12;5,74
+Faces_016_h;Faces;16;h;Armed Children;2,92;7,02
+Faces_017_h;Faces;17;h;Boy Playing;3,86;5,63
+Faces_018_h;Faces;18;h;Armed Boys;2,41;6,80
+Faces_019_h;Faces;19;h;Baby With Cleft Lip;2,79;6,65
+Faces_020_h;Faces;20;h;Child Eating;6,02;5,67
+Faces_021_h;Faces;21;h;Baby Crying;3,76;6,56
+Faces_022_h;Faces;22;h;Sad Child;4,76;5,80
+Faces_023_h;Faces;23;h;Child;4,67;5,35
+Faces_024_h;Faces;24;h;Child;4,58;5,78
+Faces_025_h;Faces;25;h;Baby In Incubator;3,75;6,28
+Faces_026_h;Faces;26;h;Boy;5,48;5,48
+Faces_027_h;Faces;27;h;Boy;3,67;6,08
+Faces_028_h;Faces;28;h;Wounded Woman And A Child;2,75;6,72
+Faces_029_h;Faces;29;h;Baby In Incubator;4,55;5,72
+Faces_030_h;Faces;30;h;Child;5,56;4,56
+Faces_031_v;Faces;31;v;Amputee Girl;2,79;6,81
+Faces_032_h;Faces;32;h;Boy With A Cigarette;2,63;6,40
+Faces_033_h;Faces;33;h;Boys With Crutches;3,79;5,90
+Faces_034_h;Faces;34;h;Sick Child;3,23;6,68
+Faces_035_h;Faces;35;h;Child Eating;3,65;5,68
+Faces_036_h;Faces;36;h;Woman And A Child;4,23;5,45
+Faces_037_h;Faces;37;h;Boy Crying;4,14;5,82
+Faces_038_h;Faces;38;h;Boy With A Gun;4,28;6,43
+Faces_039_h;Faces;39;h;Sad Girl;4,91;5,07
+Faces_040_h;Faces;40;h;Child;5,98;4,98
+Faces_041_h;Faces;41;h;Child In A Hospital;3,02;6,69
+Faces_042_h;Faces;42;h;Boy Smiling;6,85;4,17
+Faces_043_v;Faces;43;v;Girl Having A Massage;6,47;4,72
+Faces_044_h;Faces;44;h;Girl;6,06;4,58
+Faces_045_h;Faces;45;h;Girl;5,97;4,23
+Faces_046_h;Faces;46;h;Girls Eating;6,63;4,32
+Faces_047_h;Faces;47;h;Boy;6,45;4,18
+Faces_048_h;Faces;48;h;Boys;5,64;4,51
+Faces_049_h;Faces;49;h;Girl;5,72;4,61
+Faces_050_h;Faces;50;h;Children Playing;7,65;4,74
+Faces_051_h;Faces;51;h;Boy On A Bike;7,08;4,31
+Faces_052_h;Faces;52;h;Girl Sleeping;6,74;3,12
+Faces_053_h;Faces;53;h;Family;6,25;4,69
+Faces_054_v;Faces;54;v;Girl;5,37;4,63
+Faces_055_h;Faces;55;h;Girl;5,42;4,90
+Faces_056_h;Faces;56;h;Boy;6,18;4,06
+Faces_057_h;Faces;57;h;Boy;5,72;4,49
+Faces_058_h;Faces;58;h;Girl;5,90;4,73
+Faces_059_h;Faces;59;h;Girl;5,58;4,65
+Faces_060_h;Faces;60;h;Family;5,21;5,43
+Faces_061_h;Faces;61;h;Baby Sleeping;7,12;3,54
+Faces_062_v;Faces;62;v;Girl;6,02;4,36
+Faces_063_v;Faces;63;v;Child Eating;7,55;4,02
+Faces_064_h;Faces;64;h;Woman And Girls;6,04;4,29
+Faces_065_h;Faces;65;h;Girl;5,73;5,03
+Faces_066_h;Faces;66;h;Child Playing;7,43;4,20
+Faces_067_h;Faces;67;h;Baby;6,54;4,20
+Faces_068_h;Faces;68;h;Children;6,57;4,26
+Faces_069_h;Faces;69;h;Boy;5,85;4,60
+Faces_070_v;Faces;70;v;Child;5,35;5,37
+Faces_071_v;Faces;71;v;Boy;5,43;5,10
+Faces_072_h;Faces;72;h;Boy;6,35;4,57
+Faces_073_v;Faces;73;v;Child;6,20;4,90
+Faces_074_h;Faces;74;h;Woman And A Girl;6,37;4,28
+Faces_075_v;Faces;75;v;Girl;6,55;3,50
+Faces_076_h;Faces;76;h;Girl Playing;6,92;4,36
+Faces_077_v;Faces;77;v;Girl Drinking;6,52;4,47
+Faces_078_h;Faces;78;h;Girl;5,63;4,81
+Faces_079_h;Faces;79;h;Mother And Child;7,67;3,84
+Faces_080_h;Faces;80;h;Woman And Children;7,38;4,90
+Faces_081_v;Faces;81;v;Children Smiling;7,60;4,76
+Faces_082_v;Faces;82;v;Child Playing;7,33;4,50
+Faces_083_h;Faces;83;h;Child;6,57;4,39
+Faces_084_v;Faces;84;v;Woman And A Child;6,86;4,39
+Faces_085_h;Faces;85;h;Baby;6,06;5,02
+Faces_086_v;Faces;86;v;Baby;7,25;3,56
+Faces_087_h;Faces;87;h;Girl;6,54;4,24
+Faces_088_v;Faces;88;v;Children Playing;7,43;4,92
+Faces_089_h;Faces;89;h;Mother And Child;7,85;3,17
+Faces_090_v;Faces;90;v;Children Smiling;6,41;5,60
+Faces_091_v;Faces;91;v;Parents With A Child;7,08;4,14
+Faces_092_h;Faces;92;h;Family On The Beach;7,08;4,54
+Faces_093_v;Faces;93;v;Man And A Girl;6,83;4,38
+Faces_094_h;Faces;94;h;Woman And A Girl;6,92;4,60
+Faces_095_h;Faces;95;h;Girl Eating;6,94;4,83
+Faces_096_h;Faces;96;h;Boy Smiling;6,69;5,20
+Faces_097_v;Faces;97;v;Boy Smiling;6,62;5,00
+Faces_098_h;Faces;98;h;Girl;6,92;3,96
+Faces_099_h;Faces;99;h;Boy;6,96;4,02
+Faces_100_h;Faces;100;h;Boys Smiling;7,53;4,65
+Faces_101_h;Faces;101;h;Children;6,53;5,02
+Faces_102_h;Faces;102;h;Boy;6,49;4,63
+Faces_103_h;Faces;103;h;Men Smiling;6,92;4,72
+Faces_104_h;Faces;104;h;Girl Smiling;7,55;4,54
+Faces_105_h;Faces;105;h;Boy Playing;7,04;4,80
+Faces_106_h;Faces;106;h;Man And A Girl Smiling;7,35;4,25
+Faces_107_h;Faces;107;h;Man And A Boy Smiling;7,53;4,91
+Faces_108_h;Faces;108;h;Children In Swimming Pool;7,47;4,64
+Faces_109_v;Faces;109;v;Child Smiling;8,17;4,60
+Faces_110_h;Faces;110;h;Girls Smiling;6,76;4,44
+Faces_111_h;Faces;111;h;Girl;6,45;4,19
+Faces_112_h;Faces;112;h;Girls;6,48;4,49
+Faces_113_h;Faces;113;h;Boy Playing;6,90;5,13
+Faces_114_h;Faces;114;h;Baby;7,81;4,55
+Faces_115_h;Faces;115;h;Boy Smiling;7,06;3,89
+Faces_116_h;Faces;116;h;Girl Smiling;7,57;5,11
+Faces_117_h;Faces;117;h;Boys Smiling;6,56;4,89
+Faces_118_h;Faces;118;h;Children Playing;7,12;4,68
+Faces_119_v;Faces;119;v;Girl;5,58;4,88
+Faces_120_h;Faces;120;h;Boy Smiling;7,67;5,17
+Faces_121_h;Faces;121;h;Mother And Child;6,84;4,10
+Faces_122_h;Faces;122;h;Girl Playing;7,85;5,10
+Faces_123_h;Faces;123;h;Boy Playing;6,58;4,17
+Faces_124_h;Faces;124;h;Girls Playing;7,41;3,92
+Faces_125_h;Faces;125;h;Girl;7,22;3,98
+Faces_126_h;Faces;126;h;Girl;6,98;4,56
+Faces_127_h;Faces;127;h;Girls Smiling;7,59;4,92
+Faces_128_h;Faces;128;h;Children;6,15;4,65
+Faces_129_h;Faces;129;h;Children;6,96;4,23
+Faces_130_h;Faces;130;h;Woman And Child;7,38;4,16
+Faces_131_v;Faces;131;v;Boy Smiling;7,27;4,01
+Faces_132_h;Faces;132;h;Boy On A Slide;6,85;5,65
+Faces_133_h;Faces;133;h;Boy In Swimming Pool;7,40;4,60
+Faces_134_h;Faces;134;h;Children In Swimming Pool;7,43;5,68
+Faces_135_h;Faces;135;h;Boy Smiling;7,35;4,84
+Faces_136_v;Faces;136;v;Boys Smiling;7,46;5,20
+Faces_137_h;Faces;137;h;Boy In Swimming Pool;7,48;4,59
+Faces_138_h;Faces;138;h;Woman And Child;6,63;4,19
+Faces_139_v;Faces;139;v;Children Smiling;6,98;4,42
+Faces_140_h;Faces;140;h;Grandparents And Children;7,63;4,68
+Faces_141_v;Faces;141;v;Children Playing;6,66;5,19
+Faces_142_h;Faces;142;h;Sad Woman;4,30;5,71
+Faces_143_v;Faces;143;v;Mutilated Face;1,85;7,44
+Faces_144_h;Faces;144;h;Man;4,46;6,08
+Faces_145_v;Faces;145;v;Mutilated Face;2,29;7,35
+Faces_146_h;Faces;146;h;Sick Man;3,07;6,42
+Faces_147_v;Faces;147;v;Mutilated Face;2,84;6,92
+Faces_148_h;Faces;148;h;Homeless Men;3,71;6,00
+Faces_149_v;Faces;149;v;Mutilated Face;2,30;7,61
+Faces_150_h;Faces;150;h;Sick Man;3,34;6,00
+Faces_151_v;Faces;151;v;Mutilated Face;3,14;6,06
+Faces_152_h;Faces;152;h;Mutilated Face;2,71;6,60
+Faces_153_v;Faces;153;v;Mutilated Face;2,65;6,83
+Faces_154_h;Faces;154;h;Boy;4,06;5,64
+Faces_155_h;Faces;155;h;Girl Crying;3,98;5,17
+Faces_156_h;Faces;156;h;Man;4,61;5,85
+Faces_157_h;Faces;157;h;Sad Man;4,25;4,61
+Faces_158_h;Faces;158;h;Sad Man;3,42;6,45
+Faces_159_h;Faces;159;h;Mutilated Face;1,93;7,37
+Faces_160_v;Faces;160;v;Woman;4,45;5,94
+Faces_161_h;Faces;161;h;Woman Smoking;4,22;5,49
+Faces_162_h;Faces;162;h;Sad Couple;4,16;5,68
+Faces_163_h;Faces;163;h;Men ;3,98;6,35
+Faces_164_h;Faces;164;h;Crying Woman And Child;3,18;6,27
+Faces_165_v;Faces;165;v;Elderly Man;3,94;5,83
+Faces_166_h;Faces;166;h;Sad Man;4,72;4,80
+Faces_167_v;Faces;167;v;Man;4,84;4,39
+Faces_168_h;Faces;168;h;Man;4,44;5,53
+Faces_169_v;Faces;169;v;Man Smoking;4,47;4,98
+Faces_170_h;Faces;170;h;Wounded Man;2,74;6,85
+Faces_171_v;Faces;171;v;Elderly Man;4,75;5,13
+Faces_172_h;Faces;172;h;Elderly Man;2,45;6,84
+Faces_173_v;Faces;173;v;Hurting Man;3,19;5,98
+Faces_174_h;Faces;174;h;Mutilated Face;2,59;6,94
+Faces_175_v;Faces;175;v;Woman Crying;3,54;5,43
+Faces_176_h;Faces;176;h;Elderly Woman;3,44;6,11
+Faces_177_v;Faces;177;v;Masked Man ;4,47;5,91
+Faces_178_h;Faces;178;h;Elderly Woman;6,70;4,36
+Faces_179_v;Faces;179;v;Woman;6,90;4,27
+Faces_180_h;Faces;180;h;Woman ;5,27;4,67
+Faces_181_v;Faces;181;v;Elderly Woman;6,72;3,55
+Faces_182_h;Faces;182;h;Elderly Man;5,83;4,78
+Faces_183_v;Faces;183;v;Man;5,40;4,39
+Faces_184_h;Faces;184;h;Woman ;6,24;4,73
+Faces_185_v;Faces;185;v;Man;5,40;4,78
+Faces_186_h;Faces;186;h;Woman;6,31;4,39
+Faces_187_v;Faces;187;v;Man;5,25;4,56
+Faces_188_h;Faces;188;h;Woman;6,04;4,68
+Faces_189_v;Faces;189;v;Man;5,56;4,92
+Faces_190_h;Faces;190;h;Man;4,80;4,93
+Faces_191_v;Faces;191;v;Man;5,21;4,73
+Faces_192_h;Faces;192;h;Man;5,43;4,78
+Faces_193_v;Faces;193;v;Priest;5,17;4,69
+Faces_194_h;Faces;194;h;Man;5,23;4,90
+Faces_195_v;Faces;195;v;Elderly Woman;5,71;3,69
+Faces_196_h;Faces;196;h;Man;5,75;4,36
+Faces_197_v;Faces;197;v;Woman;4,56;4,82
+Faces_198_h;Faces;198;h;Woman;4,72;4,91
+Faces_199_v;Faces;199;v;Elderly Man;6,32;3,61
+Faces_200_h;Faces;200;h;Man;5,57;4,50
+Faces_201_v;Faces;201;v;Priest;5,30;4,78
+Faces_202_v;Faces;202;v;Man;4,56;4,85
+Faces_203_h;Faces;203;h;Elderly Man;6,11;4,20
+Faces_204_v;Faces;204;v;Man;4,23;5,09
+Faces_205_h;Faces;205;h;Elderly Woman;5,66;4,62
+Faces_206_v;Faces;206;v;Woman;5,58;4,65
+Faces_207_h;Faces;207;h;Elderly Woman;5,96;4,50
+Faces_208_h;Faces;208;h;Elderly Man;5,56;4,60
+Faces_209_h;Faces;209;h;Elderly Woman;5,82;4,58
+Faces_210_h;Faces;210;h;Man;6,38;4,43
+Faces_211_h;Faces;211;h;Man Smiling;5,48;5,06
+Faces_212_h;Faces;212;h;Man;4,52;5,10
+Faces_213_v;Faces;213;v;Men;5,84;4,98
+Faces_214_h;Faces;214;h;Elderly Woman;6,30;3,83
+Faces_215_v;Faces;215;v;Woman;4,67;4,85
+Faces_216_h;Faces;216;h;Man;4,91;4,85
+Faces_217_v;Faces;217;v;Elderly Man;5,83;4,78
+Faces_218_h;Faces;218;h;Woman;4,96;4,85
+Faces_219_v;Faces;219;v;Elderly Man;6,49;4,06
+Faces_220_h;Faces;220;h;Woman;4,73;4,80
+Faces_221_v;Faces;221;v;Man;5,65;5,07
+Faces_222_h;Faces;222;h;Elderly Woman;5,67;4,57
+Faces_223_v;Faces;223;v;Woman;5,83;4,94
+Faces_224_h;Faces;224;h;Elderly Woman;5,78;4,24
+Faces_225_v;Faces;225;v;Man Smiling;5,51;4,88
+Faces_226_h;Faces;226;h;Man Smiling;5,97;4,64
+Faces_227_v;Faces;227;v;Woman Smiling;7,25;4,21
+Faces_228_h;Faces;228;h;Elderly Woman;7,26;3,63
+Faces_229_v;Faces;229;v;Man;6,67;4,13
+Faces_230_h;Faces;230;h;Elderly Man;6,00;4,82
+Faces_231_v;Faces;231;v;Woman Smiling;6,68;4,20
+Faces_232_h;Faces;232;h;Women Smiling;7,26;4,98
+Faces_233_v;Faces;233;v;Woman;5,74;4,65
+Faces_234_h;Faces;234;h;Dancing People;7,37;5,76
+Faces_235_v;Faces;235;v;Woman Smiling;7,40;4,81
+Faces_236_h;Faces;236;h;Woman Smiling;6,72;5,40
+Faces_237_v;Faces;237;v;Woman Smiling;6,49;4,24
+Faces_238_h;Faces;238;h;Man Smiling;6,97;4,42
+Faces_239_v;Faces;239;v;Woman Smiling;6,27;5,20
+Faces_240_h;Faces;240;h;Woman Smiling;6,61;5,36
+Faces_241_v;Faces;241;v;Man;6,68;4,44
+Faces_242_h;Faces;242;h;Man And Woman Smiling;6,98;4,63
+Faces_243_v;Faces;243;v;Elderly Woman;6,97;3,49
+Faces_244_h;Faces;244;h;Elderly Woman;6,84;4,00
+Faces_245_v;Faces;245;v;Man Singing;6,47;5,24
+Faces_246_v;Faces;246;v;Man Smiling;6,86;4,78
+Faces_247_h;Faces;247;h;Woman Smiling;6,41;4,85
+Faces_248_v;Faces;248;v;Girl;6,94;4,42
+Faces_249_v;Faces;249;v;Buddhist Monk;6,75;3,45
+Faces_250_h;Faces;250;h;Woman;5,73;5,33
+Faces_251_v;Faces;251;v;Man;5,71;4,57
+Faces_252_h;Faces;252;h;Woman Smiling;7,35;4,54
+Faces_253_v;Faces;253;v;Woman Smiling;6,87;4,84
+Faces_254_h;Faces;254;h;Woman;6,85;4,43
+Faces_255_v;Faces;255;v;Elderly Man;5,95;5,11
+Faces_256_h;Faces;256;h;Elderly Woman;6,89;4,53
+Faces_257_v;Faces;257;v;Woman Smiling;7,06;4,28
+Faces_258_h;Faces;258;h;Men Smiling;6,50;4,77
+Faces_259_v;Faces;259;v;Mother And Child;6,02;4,88
+Faces_260_h;Faces;260;h;Elderly Man;7,14;4,71
+Faces_261_v;Faces;261;v;Woman Smiling;6,94;5,25
+Faces_262_h;Faces;262;h;Elderly Woman;6,71;4,73
+Faces_263_v;Faces;263;v;Woman Smiling;7,00;4,29
+Faces_264_h;Faces;264;h;Butcher Woman;5,18;5,80
+Faces_265_h;Faces;265;h;Butcher;3,75;6,26
+Faces_266_h;Faces;266;h;Butcher;4,50;5,53
+Faces_267_v;Faces;267;v;Cook;5,69;5,47
+Faces_268_h;Faces;268;h;Butcher Woman;4,74;5,31
+Faces_269_v;Faces;269;v;Soldier;3,53;6,54
+Faces_270_h;Faces;270;h;Man With A Gun;3,56;6,54
+Faces_271_h;Faces;271;h;Men With Guns;3,49;6,48
+Faces_272_h;Faces;272;h;Masked Men With Guns;3,66;6,58
+Faces_273_h;Faces;273;h;Man With Guns;3,75;6,14
+Faces_274_h;Faces;274;h;Man With Guns;3,40;6,69
+Faces_275_h;Faces;275;h;Elderly Man;4,48;5,85
+Faces_276_h;Faces;276;h;Women;5,48;4,90
+Faces_277_h;Faces;277;h;Box Fighters;4,77;6,58
+Faces_278_h;Faces;278;h;Woman And Man;4,46;5,33
+Faces_279_h;Faces;279;h;Sad People;3,94;5,64
+Faces_280_h;Faces;280;h;Box Fighters;3,94;6,40
+Faces_281_h;Faces;281;h;Hurting Woman;4,50;5,00
+Faces_282_h;Faces;282;h;Football Players;6,45;5,94
+Faces_283_h;Faces;283;h;Elderly Woman Crying;2,48;7,26
+Faces_284_h;Faces;284;h;Crippled Man;2,43;6,83
+Faces_285_h;Faces;285;h;Homeless Woman;3,29;6,10
+Faces_286_h;Faces;286;h;Judo Fighters;5,09;5,96
+Faces_287_h;Faces;287;h;Football Player;3,13;6,65
+Faces_288_h;Faces;288;h;Woman;3,51;5,92
+Faces_289_h;Faces;289;h;Elderly Man;4,69;5,22
+Faces_290_h;Faces;290;h;Homeless Man;2,77;6,27
+Faces_291_h;Faces;291;h;Police Arresting Someone;3,08;6,80
+Faces_292_h;Faces;292;h;Man;5,18;5,76
+Faces_293_h;Faces;293;h;Police Arresting Someone;2,44;7,08
+Faces_294_h;Faces;294;h;Wounded Man;3,10;6,06
+Faces_295_h;Faces;295;h;Judo Fighters;6,02;6,35
+Faces_296_h;Faces;296;h;Man Smoking;3,64;5,76
+Faces_297_h;Faces;297;h;Karate Fighters;5,24;6,57
+Faces_298_h;Faces;298;h;Fighter;3,41;6,34
+Faces_299_h;Faces;299;h;Box Fighters;4,35;6,48
+Faces_300_h;Faces;300;h;Elderly Man;3,53;6,07
+Faces_301_h;Faces;301;h;Man And Woman;4,57;4,96
+Faces_302_h;Faces;302;h;Homeless Man;3,02;6,13
+Faces_303_h;Faces;303;h;Beggar Woman;3,15;5,89
+Faces_304_h;Faces;304;h;Men In The Water;6,90;5,00
+Faces_305_h;Faces;305;h;Woman;4,93;4,98
+Faces_306_v;Faces;306;v;Couple;5,41;4,80
+Faces_307_v;Faces;307;v;Couple;5,98;4,38
+Faces_308_h;Faces;308;h;Men;5,76;5,16
+Faces_309_h;Faces;309;h;Men;5,25;4,84
+Faces_310_v;Faces;310;v;Woman;6,48;4,54
+Faces_311_h;Faces;311;h;Elderly Woman;5,43;4,76
+Faces_312_h;Faces;312;h;Man;5,04;4,63
+Faces_313_h;Faces;313;h;Boys Playing;6,61;5,53
+Faces_314_h;Faces;314;h;Man Skateboarding;6,49;5,40
+Faces_315_h;Faces;315;h;Elderly Couple;5,69;4,46
+Faces_316_h;Faces;316;h;Man Jogging;6,72;5,18
+Faces_317_v;Faces;317;v;Woman;5,96;4,64
+Faces_318_v;Faces;318;v;Couple;6,06;4,49
+Faces_319_v;Faces;319;v;Man And Woman;5,83;4,51
+Faces_320_v;Faces;320;v;Elderly Woman;5,06;4,98
+Faces_321_h;Faces;321;h;Football Players;7,34;6,21
+Faces_322_v;Faces;322;v;Woman Smiling;6,80;5,38
+Faces_323_h;Faces;323;h;Men Smiling;6,80;4,76
+Faces_324_h;Faces;324;h;Woman Smiling;7,14;4,15
+Faces_325_v;Faces;325;v;Man Smiling;7,00;5,00
+Faces_326_h;Faces;326;h;Man Jogging;6,63;4,56
+Faces_327_v;Faces;327;v;Couple;6,55;4,47
+Faces_328_v;Faces;328;v;Couple;6,36;4,85
+Faces_329_h;Faces;329;h;Man Jogging;6,19;5,35
+Faces_330_v;Faces;330;v;People Showering;7,00;4,68
+Faces_331_h;Faces;331;h;Men;6,60;4,54
+Faces_332_v;Faces;332;v;Man Exercising;6,91;5,18
+Faces_333_h;Faces;333;h;Woman Smiling;7,02;4,10
+Faces_334_h;Faces;334;h;Woman Smiling;6,56;5,06
+Faces_335_h;Faces;335;h;Couple;6,23;4,63
+Faces_336_h;Faces;336;h;Men;5,66;4,75
+Faces_337_h;Faces;337;h;Man Smiling;7,11;4,28
+Faces_338_h;Faces;338;h;Men Smiling;6,23;4,83
+Faces_339_h;Faces;339;h;Woman And Man;6,29;4,53
+Faces_340_h;Faces;340;h;Woman Showering;7,29;4,97
+Faces_341_h;Faces;341;h;Elderly People;6,02;4,54
+Faces_342_h;Faces;342;h;Woman Smiling;7,13;5,45
+Faces_343_h;Faces;343;h;Man;6,10;4,22
+Faces_344_h;Faces;344;h;Elderly Women;6,83;4,50
+Faces_345_h;Faces;345;h;Men Smiling;7,30;4,22
+Faces_346_v;Faces;346;v;Couple Smiling;7,67;4,28
+Faces_347_h;Faces;347;h;People Smiling;7,00;5,74
+Faces_348_h;Faces;348;h;Man Swimming;6,69;5,63
+Faces_349_h;Faces;349;h;People Smiling;7,18;5,10
+Faces_350_h;Faces;350;h;People Smiling;7,48;4,39
+Faces_351_h;Faces;351;h;Elderly Women;7,56;4,31
+Faces_352_h;Faces;352;h;People In The Swimming Pool;7,17;5,61
+Faces_353_h;Faces;353;h;Woman Singing;7,42;4,76
+Faces_354_v;Faces;354;v;Woman Smiling;7,41;4,77
+Faces_355_h;Faces;355;h;Elderly Couple;6,08;4,57
+Faces_356_h;Faces;356;h;Couple Smiling;7,65;5,34
+Faces_357_v;Faces;357;v;Cello Player;7,00;4,37
+Faces_358_h;Faces;358;h;Man With Children Smiling;7,49;4,15
+Faces_359_h;Faces;359;h;People Celebrating;6,73;5,45
+Faces_360_v;Faces;360;v;People Smiling;6,86;4,90
+Faces_361_v;Faces;361;v;Drummers;7,09;5,82
+Faces_362_v;Faces;362;v;Mutilated Face;2,53;6,89
+Faces_363_v;Faces;363;v;Mutilated Face;2,77;6,27
+Faces_364_v;Faces;364;v;Mutilated Face;1,76;7,69
+Faces_365_v;Faces;365;v;Mutilated Face;1,98;7,10
+Faces_366_h;Faces;366;h;Mutilated Face;2,11;7,07
+Faces_367_h;Faces;367;h;Mutilated Face;1,65;7,60
+Faces_368_h;Faces;368;h;Mutilated Face;2,79;6,66
+Faces_369_v;Faces;369;v;Mutilated Face;3,52;6,18
+Faces_370_h;Faces;370;h;At Dentist;3,69;6,25
+Faces_371_v;Faces;371;v;Mutilated Face;1,73;7,56
+Faces_372_h;Faces;372;h;Mutilated Face;3,76;5,72
+Landscapes_001_h;Landscapes;1;h;Concentration Camp;3,64;5,52
+Landscapes_002_h;Landscapes;2;h;Concentration Camp;2,80;6,44
+Landscapes_003_v;Landscapes;3;v;Devastated House;4,06;5,94
+Landscapes_004_h;Landscapes;4;h;Polluted Water;3,10;5,75
+Landscapes_005_h;Landscapes;5;h;Crashed Trains;3,13;6,66
+Landscapes_006_h;Landscapes;6;h;Crashed Trains;3,92;4,98
+Landscapes_007_h;Landscapes;7;h;Waste;2,93;6,33
+Landscapes_008_h;Landscapes;8;h;Ski Lift;7,40;4,41
+Landscapes_009_h;Landscapes;9;h;Sea Side;6,46;4,00
+Landscapes_010_h;Landscapes;10;h;Devastated Houses;3,29;5,33
+Landscapes_011_h;Landscapes;11;h;Devastated House;3,52;5,63
+Landscapes_012_h;Landscapes;12;h;Bridge;4,40;4,62
+Landscapes_013_v;Landscapes;13;v;Wall;4,35;5,07
+Landscapes_014_h;Landscapes;14;h;Waste And Houses;3,33;5,51
+Landscapes_015_h;Landscapes;15;h;Devastated Houses;4,59;4,94
+Landscapes_016_h;Landscapes;16;h;Block Of Flats;5,13;4,09
+Landscapes_017_h;Landscapes;17;h;Waste;3,21;5,89
+Landscapes_018_h;Landscapes;18;h;Devastated House;6,19;4,24
+Landscapes_019_h;Landscapes;19;h;Devastated House;5,18;4,31
+Landscapes_020_h;Landscapes;20;h;Electric Posts;4,65;5,02
+Landscapes_021_h;Landscapes;21;h;Ski Lift;7,60;3,73
+Landscapes_022_h;Landscapes;22;h;Burning House;2,75;6,85
+Landscapes_023_h;Landscapes;23;h;Mountains;6,66;4,49
+Landscapes_024_v;Landscapes;24;v;Block Of Flats;4,80;4,36
+Landscapes_025_h;Landscapes;25;h;Waste And Houses;3,73;6,10
+Landscapes_026_h;Landscapes;26;h;Waste;2,48;6,41
+Landscapes_027_v;Landscapes;27;v;Devastated Building;4,43;5,36
+Landscapes_028_h;Landscapes;28;h;Railroad Tracks ;3,83;5,19
+Landscapes_029_v;Landscapes;29;v;Flooded Building;3,30;6,04
+Landscapes_030_v;Landscapes;30;v;Melted Snow;3,85;5,46
+Landscapes_031_h;Landscapes;31;h;Bridge;5,59;4,47
+Landscapes_032_v;Landscapes;32;v;Devastated House;4,29;5,32
+Landscapes_033_h;Landscapes;33;h;Building;4,52;5,42
+Landscapes_034_h;Landscapes;34;h;Ruins;7,04;4,23
+Landscapes_035_v;Landscapes;35;v;Stairs;7,55;3,90
+Landscapes_036_h;Landscapes;36;h;House;5,20;4,88
+Landscapes_037_v;Landscapes;37;v;Houses;5,87;3,98
+Landscapes_038_h;Landscapes;38;h;Temple;7,25;3,65
+Landscapes_039_v;Landscapes;39;v;Devastated Building;3,53;5,51
+Landscapes_040_h;Landscapes;40;h;House;5,89;4,57
+Landscapes_041_h;Landscapes;41;h;Cabin;6,81;4,13
+Landscapes_042_h;Landscapes;42;h;Building;5,98;4,35
+Landscapes_043_h;Landscapes;43;h;Bulldozers;4,80;5,11
+Landscapes_044_h;Landscapes;44;h;House;5,13;4,46
+Landscapes_045_h;Landscapes;45;h;Doors;4,10;5,80
+Landscapes_046_h;Landscapes;46;h;Windows;5,91;3,16
+Landscapes_047_v;Landscapes;47;v;Stairs;6,49;5,02
+Landscapes_048_h;Landscapes;48;h;Terrace;6,74;3,37
+Landscapes_049_h;Landscapes;49;h;House;7,24;2,88
+Landscapes_050_h;Landscapes;50;h;House;6,87;2,98
+Landscapes_051_h;Landscapes;51;h;House;6,29;4,06
+Landscapes_052_h;Landscapes;52;h;Buildings;6,53;4,71
+Landscapes_053_h;Landscapes;53;h;Skyscrapers;6,46;4,52
+Landscapes_054_h;Landscapes;54;h;Beach Bungalow;7,60;2,94
+Landscapes_055_h;Landscapes;55;h;Vineyard;6,02;4,16
+Landscapes_056_h;Landscapes;56;h;Devastated House;4,82;4,77
+Landscapes_057_h;Landscapes;57;h;Highway;5,48;5,25
+Landscapes_058_h;Landscapes;58;h;Devastated House;4,04;5,40
+Landscapes_059_v;Landscapes;59;v;Bridge;7,00;4,51
+Landscapes_060_h;Landscapes;60;h;Mines;5,21;4,27
+Landscapes_061_h;Landscapes;61;h;Mine;4,98;4,59
+Landscapes_062_h;Landscapes;62;h;Buildings;6,86;4,04
+Landscapes_063_h;Landscapes;63;h;Highway;5,49;4,63
+Landscapes_064_h;Landscapes;64;h;Garden;7,56;3,31
+Landscapes_065_h;Landscapes;65;h;Buildings;6,47;3,61
+Landscapes_066_h;Landscapes;66;h;Dustbins;3,92;5,50
+Landscapes_067_h;Landscapes;67;h;Balcony;4,98;4,76
+Landscapes_068_h;Landscapes;68;h;Devastated House;3,58;5,63
+Landscapes_069_v;Landscapes;69;v;Railroad Tracks ;6,09;4,29
+Landscapes_070_h;Landscapes;70;h;Industry;3,96;5,53
+Landscapes_071_h;Landscapes;71;h;River;6,19;3,82
+Landscapes_072_h;Landscapes;72;h;House;5,83;4,00
+Landscapes_073_h;Landscapes;73;h;House;6,17;4,35
+Landscapes_074_h;Landscapes;74;h;Industry;4,04;4,98
+Landscapes_075_h;Landscapes;75;h;Windows;6,15;4,17
+Landscapes_076_h;Landscapes;76;h;Wall;5,06;4,58
+Landscapes_077_v;Landscapes;77;v;Building Foundation;4,64;4,65
+Landscapes_078_h;Landscapes;78;h;Bridge;4,50;4,86
+Landscapes_079_v;Landscapes;79;v;House;5,09;4,76
+Landscapes_080_h;Landscapes;80;h;House;5,46;4,35
+Landscapes_081_h;Landscapes;81;h;House;5,48;4,90
+Landscapes_082_v;Landscapes;82;v;Building;6,45;4,16
+Landscapes_083_h;Landscapes;83;h;Building;5,76;4,18
+Landscapes_084_v;Landscapes;84;v;Bridge;5,40;4,69
+Landscapes_085_h;Landscapes;85;h;Cabin;6,77;3,57
+Landscapes_086_v;Landscapes;86;v;Church;6,40;4,45
+Landscapes_087_h;Landscapes;87;h;Skyscrapers;6,17;4,90
+Landscapes_088_v;Landscapes;88;v;Windows;7,31;3,98
+Landscapes_089_h;Landscapes;89;h;Garden;6,62;3,35
+Landscapes_090_h;Landscapes;90;h;Church;7,06;3,38
+Landscapes_091_h;Landscapes;91;h;Window;5,16;4,57
+Landscapes_092_h;Landscapes;92;h;Devastated Palace;6,12;4,90
+Landscapes_093_h;Landscapes;93;h;Chairs;5,41;4,56
+Landscapes_094_h;Landscapes;94;h;Palace;7,06;3,37
+Landscapes_095_h;Landscapes;95;h;Skyscrapers;6,46;4,87
+Landscapes_096_h;Landscapes;96;h;Flowers;7,89;3,21
+Landscapes_097_v;Landscapes;97;v;Park;7,60;2,71
+Landscapes_098_h;Landscapes;98;h;Sunset;7,87;2,56
+Landscapes_099_v;Landscapes;99;v;Snow;6,66;3,44
+Landscapes_100_h;Landscapes;100;h;Water;6,88;3,80
+Landscapes_101_v;Landscapes;101;v;Stream;6,39;3,43
+Landscapes_102_h;Landscapes;102;h;Rocks;7,18;3,90
+Landscapes_103_v;Landscapes;103;v;Tree;7,83;2,43
+Landscapes_104_h;Landscapes;104;h;Water Lilies;7,20;2,80
+Landscapes_105_v;Landscapes;105;v;Park;7,51;2,63
+Landscapes_106_v;Landscapes;106;v;Water;6,50;3,04
+Landscapes_107_h;Landscapes;107;h;Grass;6,79;3,45
+Landscapes_108_v;Landscapes;108;v;Waterfall;6,80;3,46
+Landscapes_109_h;Landscapes;109;h;Water Lilies;7,16;3,14
+Landscapes_110_v;Landscapes;110;v;Rocks;7,04;3,86
+Landscapes_111_h;Landscapes;111;h;Water Lilies;5,48;4,13
+Landscapes_112_v;Landscapes;112;v;Garden;6,84;3,34
+Landscapes_113_h;Landscapes;113;h;Sea;7,67;3,49
+Landscapes_114_v;Landscapes;114;v;Snow;7,21;3,19
+Landscapes_115_v;Landscapes;115;v;River;6,71;3,57
+Landscapes_116_v;Landscapes;116;v;River;8,05;3,44
+Landscapes_117_h;Landscapes;117;h;Fields;7,78;3,57
+Landscapes_118_v;Landscapes;118;v;Burning Fields;3,08;6,69
+Landscapes_119_h;Landscapes;119;h;Plants;6,60;3,47
+Landscapes_120_v;Landscapes;120;v;Meadow;8,31;2,04
+Landscapes_121_h;Landscapes;121;h;Sea;7,74;3,20
+Landscapes_122_v;Landscapes;122;v;Bridge;7,70;2,06
+Landscapes_123_h;Landscapes;123;h;Sea;8,15;2,11
+Landscapes_124_h;Landscapes;124;h;Flowers;7,06;3,85
+Landscapes_125_h;Landscapes;125;h;Flower;7,34;3,59
+Landscapes_126_h;Landscapes;126;h;Plants;7,06;3,38
+Landscapes_127_h;Landscapes;127;h;Flowers;6,95;3,55
+Landscapes_128_h;Landscapes;128;h;Palm Trees;7,42;3,24
+Landscapes_129_v;Landscapes;129;v;Water Lilies;5,82;4,83
+Landscapes_130_h;Landscapes;130;h;Field;5,66;4,22
+Landscapes_131_h;Landscapes;131;h;Field;7,32;2,53
+Landscapes_132_h;Landscapes;132;h;Meadow;7,87;3,31
+Landscapes_133_h;Landscapes;133;h;Flowers;7,30;3,59
+Landscapes_134_h;Landscapes;134;h;Flowers;7,66;3,90
+Landscapes_135_h;Landscapes;135;h;Tree;5,58;4,27
+Landscapes_136_h;Landscapes;136;h;River;6,29;4,29
+Landscapes_137_h;Landscapes;137;h;Flower;7,61;2,92
+Landscapes_138_h;Landscapes;138;h;Sky;7,68;3,47
+Landscapes_139_h;Landscapes;139;h;Waste;2,43;6,44
+Landscapes_140_v;Landscapes;140;v;Palm Trees;7,89;3,94
+Landscapes_141_h;Landscapes;141;h;Sky;8,04;2,20
+Landscapes_142_h;Landscapes;142;h;Water;7,67;3,85
+Landscapes_143_h;Landscapes;143;h;Flowers;7,02;3,91
+Landscapes_144_h;Landscapes;144;h;Field;5,73;4,61
+Landscapes_145_h;Landscapes;145;h;Water;6,56;4,40
+Landscapes_146_h;Landscapes;146;h;Garden;7,56;3,16
+Landscapes_147_h;Landscapes;147;h;Flowers;7,39;3,12
+Landscapes_148_h;Landscapes;148;h;Water;7,28;3,08
+Landscapes_149_h;Landscapes;149;h;Rocks;6,96;3,76
+Landscapes_150_v;Landscapes;150;v;Flowers;6,86;3,76
+Landscapes_151_h;Landscapes;151;h;Desert;7,48;3,43
+Landscapes_152_h;Landscapes;152;h;Flowers;7,52;3,66
+Landscapes_153_h;Landscapes;153;h;Desert;7,46;2,98
+Landscapes_154_h;Landscapes;154;h;Mountains;8,27;3,27
+Landscapes_155_h;Landscapes;155;h;Trees;6,44;4,26
+Landscapes_156_h;Landscapes;156;h;Trees;4,19;5,36
+Landscapes_157_h;Landscapes;157;h;Mountains;7,73;3,56
+Landscapes_158_h;Landscapes;158;h;Desert;7,39;2,72
+Landscapes_159_h;Landscapes;159;h;Plants;4,70;4,88
+Landscapes_160_v;Landscapes;160;v;Forest;6,60;3,49
+Landscapes_161_h;Landscapes;161;h;Desert;7,58;4,08
+Landscapes_162_h;Landscapes;162;h;Desert;7,27;3,52
+Landscapes_163_h;Landscapes;163;h;Desert;7,02;3,02
+Landscapes_164_h;Landscapes;164;h;Garden;7,33;3,10
+Landscapes_165_h;Landscapes;165;h;Mountains;8,22;2,57
+Landscapes_166_h;Landscapes;166;h;Desert;7,56;3,58
+Landscapes_167_h;Landscapes;167;h;Desert;7,53;3,20
+Landscapes_168_h;Landscapes;168;h;Forest;7,94;2,50
+Landscapes_169_h;Landscapes;169;h;Sea;6,34;3,61
+Landscapes_170_h;Landscapes;170;h;Plants;4,84;5,23
+Landscapes_171_v;Landscapes;171;v;Leaves;7,29;3,60
+Landscapes_172_h;Landscapes;172;h;Tree;6,64;3,27
+Landscapes_173_h;Landscapes;173;h;Rocks;7,43;3,62
+Landscapes_174_h;Landscapes;174;h;Mountains;7,69;3,10
+Landscapes_175_h;Landscapes;175;h;River;7,79;2,21
+Landscapes_176_h;Landscapes;176;h;Salt Lake;7,51;2,60
+Landscapes_177_h;Landscapes;177;h;Fire;3,15;7,08
+Landscapes_178_h;Landscapes;178;h;Beach;7,69;4,02
+Landscapes_179_h;Landscapes;179;h;Water Lilies;7,14;3,32
+Landscapes_180_h;Landscapes;180;h;Sea;8,54;2,90
+Landscapes_181_h;Landscapes;181;h;Water;4,61;5,15
+Landscapes_182_v;Landscapes;182;v;Plants;6,50;3,94
+Landscapes_183_h;Landscapes;183;h;Sea;8,31;3,35
+Landscapes_184_h;Landscapes;184;h;Plants;6,37;4,08
+Landscapes_185_v;Landscapes;185;v;Flowers;7,86;2,54
+Objects_001_h;Objects;1;h;Burning Car;2,72;7,15
+Objects_002_h;Objects;2;h;Crashed Truck;2,66;6,27
+Objects_003_h;Objects;3;h;Crashed Car;2,39;6,79
+Objects_004_h;Objects;4;h;Crashed Car;3,05;6,47
+Objects_005_h;Objects;5;h;Fish;4,06;5,73
+Objects_006_h;Objects;6;h;Meat;3,37;6,15
+Objects_007_h;Objects;7;h;Meat;2,98;6,24
+Objects_008_h;Objects;8;h;Roasted Chicken;5,28;5,59
+Objects_009_h;Objects;9;h;Sausage;4,73;5,53
+Objects_010_h;Objects;10;h;Rotten Bread;4,50;4,93
+Objects_011_h;Objects;11;h;Rotten Soup;2,87;5,89
+Objects_012_h;Objects;12;h;Meat;3,86;5,69
+Objects_013_h;Objects;13;h;Meat;3,47;6,27
+Objects_014_h;Objects;14;h;Sausages;5,12;5,73
+Objects_015_v;Objects;15;v;Meat;4,53;5,65
+Objects_016_h;Objects;16;h;Noodles With Eggs;6,28;4,82
+Objects_017_v;Objects;17;v;Meat;4,00;5,88
+Objects_018_h;Objects;18;h;Meat;4,06;5,82
+Objects_019_h;Objects;19;h;Meat;4,47;5,78
+Objects_020_h;Objects;20;h;Haricots;5,91;4,31
+Objects_021_v;Objects;21;v;Meat;3,60;6,20
+Objects_022_h;Objects;22;h;Meat;3,04;6,54
+Objects_023_v;Objects;23;v;Meat;3,72;6,10
+Objects_024_v;Objects;24;v;Meat;5,28;5,45
+Objects_025_h;Objects;25;h;Potato Pancakes;6,80;4,73
+Objects_026_v;Objects;26;v;Mushrooms;5,79;4,62
+Objects_027_h;Objects;27;h;Sausages;5,70;5,33
+Objects_028_v;Objects;28;v;Mushrooms;6,17;4,31
+Objects_029_h;Objects;29;h;Corn;5,96;5,19
+Objects_030_v;Objects;30;v;Meal;6,87;4,12
+Objects_031_h;Objects;31;h;Sausages;5,98;5,27
+Objects_032_v;Objects;32;v;Food;6,65;4,51
+Objects_033_h;Objects;33;h;Meal;6,73;4,35
+Objects_034_v;Objects;34;v;Stew;6,12;4,86
+Objects_035_h;Objects;35;h;Fish;4,69;5,57
+Objects_036_v;Objects;36;v;Jar;4,50;5,53
+Objects_037_h;Objects;37;h;Food;7,23;5,42
+Objects_038_v;Objects;38;v;Pumpkin;6,16;4,36
+Objects_039_h;Objects;39;h;Fish;3,49;5,71
+Objects_040_v;Objects;40;v;Meal;6,98;4,87
+Objects_041_h;Objects;41;h;Cake;7,00;4,70
+Objects_042_h;Objects;42;h;Meal;6,10;5,08
+Objects_043_h;Objects;43;h;Ginger;5,92;4,23
+Objects_044_v;Objects;44;v;Mushrooms;6,02;3,70
+Objects_045_h;Objects;45;h;Food;4,80;5,37
+Objects_046_h;Objects;46;h;Chicken;5,14;5,71
+Objects_047_h;Objects;47;h;Sea Food;5,82;5,04
+Objects_048_h;Objects;48;h;Dumplings;6,61;5,00
+Objects_049_h;Objects;49;h;Fish And Chips;5,46;5,17
+Objects_050_h;Objects;50;h;Finished Meal;5,06;5,20
+Objects_051_h;Objects;51;h;Meal;6,27;5,04
+Objects_052_h;Objects;52;h;Meal;7,00;4,90
+Objects_053_h;Objects;53;h;Meal;4,37;5,85
+Objects_054_h;Objects;54;h;Meal;5,90;4,45
+Objects_055_v;Objects;55;v;Beer;5,89;4,62
+Objects_056_h;Objects;56;h;Indian Food;6,56;4,63
+Objects_057_h;Objects;57;h;Meal;4,94;5,48
+Objects_058_h;Objects;58;h;Stall;6,09;4,67
+Objects_059_h;Objects;59;h;Snails;4,86;5,31
+Objects_060_h;Objects;60;h;Fish;4,73;5,13
+Objects_061_h;Objects;61;h;Food;6,02;5,12
+Objects_062_h;Objects;62;h;Meat;5,85;5,41
+Objects_063_v;Objects;63;v;Stew;6,98;5,13
+Objects_064_v;Objects;64;v;Meat;5,87;5,21
+Objects_065_h;Objects;65;h;Lobsters;5,15;5,63
+Objects_066_v;Objects;66;v;Meal;6,04;5,00
+Objects_067_h;Objects;67;h;Sausages;5,02;5,43
+Objects_068_v;Objects;68;v;Mushrooms;5,24;4,80
+Objects_069_h;Objects;69;h;Dumplings;6,80;5,47
+Objects_070_v;Objects;70;v;Jar;6,35;5,36
+Objects_071_h;Objects;71;h;Fruits;4,98;5,06
+Objects_072_v;Objects;72;v;Sushi;6,63;5,10
+Objects_073_h;Objects;73;h;Scrambled Eggs;6,78;4,53
+Objects_074_v;Objects;74;v;Drink;7,55;4,85
+Objects_075_h;Objects;75;h;Meal;6,97;4,94
+Objects_076_v;Objects;76;v;Salad;7,25;4,89
+Objects_077_h;Objects;77;h;Vegetables;7,71;4,35
+Objects_078_h;Objects;78;h;Pizza;6,94;5,37
+Objects_079_h;Objects;79;h;Jam;6,94;4,83
+Objects_080_h;Objects;80;h;Cake;7,55;5,20
+Objects_081_h;Objects;81;h;Dumplings;7,16;5,28
+Objects_082_h;Objects;82;h;Cheese;6,49;4,72
+Objects_083_h;Objects;83;h;Food;6,18;5,07
+Objects_084_v;Objects;84;v;Table;7,81;3,51
+Objects_085_h;Objects;85;h;Cake;6,75;4,82
+Objects_086_h;Objects;86;h;Bananas;7,15;4,26
+Objects_087_h;Objects;87;h;Durian;5,86;4,71
+Objects_088_h;Objects;88;h;Fish;3,55;5,67
+Objects_089_h;Objects;89;h;Lychee Fruit;5,09;4,93
+Objects_090_h;Objects;90;h;Onions;5,73;4,44
+Objects_091_h;Objects;91;h;Boiled Eggs;6,28;4,44
+Objects_092_v;Objects;92;v;Meal;6,02;5,96
+Objects_093_h;Objects;93;h;Mushrooms;5,78;4,72
+Objects_094_v;Objects;94;v;Vegetables;6,45;4,72
+Objects_095_h;Objects;95;h;Meal;6,42;4,49
+Objects_096_v;Objects;96;v;Kiwifruit Drink;7,46;4,02
+Objects_097_h;Objects;97;h;Sandwiches;7,21;4,76
+Objects_098_v;Objects;98;v;Carrots;6,79;4,04
+Objects_099_h;Objects;99;h;Tea;6,40;4,18
+Objects_100_v;Objects;100;v;Meal;7,05;4,98
+Objects_101_h;Objects;101;h;Cake;7,37;4,51
+Objects_102_v;Objects;102;v;Meal;6,69;5,10
+Objects_103_h;Objects;103;h;French Fries;6,86;4,88
+Objects_104_v;Objects;104;v;Sandwiches;6,68;5,24
+Objects_105_h;Objects;105;h;Knives;4,44;6,20
+Objects_106_v;Objects;106;v;Fridge;3,94;5,48
+Objects_107_h;Objects;107;h;Toy;4,04;5,46
+Objects_108_v;Objects;108;v;Objects;4,83;5,00
+Objects_109_h;Objects;109;h;Excrement;3,59;5,58
+Objects_110_v;Objects;110;v;Toilet;3,36;5,77
+Objects_111_h;Objects;111;h;Doll;3,32;5,88
+Objects_112_h;Objects;112;h;Bouquet;4,97;4,53
+Objects_113_h;Objects;113;h;Glass;4,43;5,71
+Objects_114_h;Objects;114;h;Suitcase;3,84;5,36
+Objects_115_h;Objects;115;h;Coal;4,74;5,04
+Objects_116_v;Objects;116;v;Curtain;4,02;4,52
+Objects_117_h;Objects;117;h;Broken Glass;3,64;5,70
+Objects_118_v;Objects;118;v;Handcuffs;4,20;5,77
+Objects_119_h;Objects;119;h;Knife;5,04;5,52
+Objects_120_h;Objects;120;h;Toy;3,58;5,56
+Objects_121_v;Objects;121;v;Toilet;3,04;6,44
+Objects_122_h;Objects;122;h;Garbage;4,08;5,00
+Objects_123_h;Objects;123;h;Broken Glass;3,66;5,75
+Objects_124_h;Objects;124;h;Toilet;4,60;5,18
+Objects_125_h;Objects;125;h;Toilet;2,02;6,20
+Objects_126_h;Objects;126;h;Glass;3,28;6,24
+Objects_127_h;Objects;127;h;Dustbin;3,66;5,38
+Objects_128_h;Objects;128;h;Tiles;4,04;5,20
+Objects_129_h;Objects;129;h;Shoes;6,26;4,53
+Objects_130_h;Objects;130;h;Lock;4,98;4,69
+Objects_131_h;Objects;131;h;Knives;4,71;5,37
+Objects_132_h;Objects;132;h;Straps;2,88;6,76
+Objects_133_h;Objects;133;h;Objects;4,15;5,61
+Objects_134_h;Objects;134;h;Broken Objects;4,32;4,84
+Objects_135_h;Objects;135;h;Bottles;3,92;5,06
+Objects_136_h;Objects;136;h;Objects;3,96;5,39
+Objects_137_h;Objects;137;h;Guns;3,87;5,87
+Objects_138_h;Objects;138;h;Bottles;4,46;5,94
+Objects_139_h;Objects;139;h;Doll Head;2,08;6,64
+Objects_140_h;Objects;140;h;Bottle;3,79;5,09
+Objects_141_h;Objects;141;h;Broken Bottle;3,54;5,46
+Objects_142_h;Objects;142;h;Broken Bottle;3,68;5,83
+Objects_143_h;Objects;143;h;Guns And Knives;3,91;6,13
+Objects_144_h;Objects;144;h;Dirt;3,00;5,68
+Objects_145_h;Objects;145;h;Coffins;3,47;5,16
+Objects_146_h;Objects;146;h;Glass;4,48;4,88
+Objects_147_v;Objects;147;v;Knife;4,90;5,45
+Objects_148_h;Objects;148;h;Guns And Handcuffs;3,39;6,70
+Objects_149_h;Objects;149;h;Blood;2,28;7,18
+Objects_150_h;Objects;150;h;Dog Collar;3,64;5,94
+Objects_151_h;Objects;151;h;Garbage;3,82;5,35
+Objects_152_v;Objects;152;v;Bottle;5,19;5,10
+Objects_153_h;Objects;153;h;Rust;3,61;5,42
+Objects_154_h;Objects;154;h;Blood;3,32;6,22
+Objects_155_h;Objects;155;h;Flowerpot;3,73;5,49
+Objects_156_v;Objects;156;v;Bathtub;4,06;5,30
+Objects_157_h;Objects;157;h;Bottles;2,93;6,04
+Objects_158_h;Objects;158;h;Doll Arm;3,45;5,88
+Objects_159_v;Objects;159;v;Broken Shelf;4,17;5,04
+Objects_160_h;Objects;160;h;Sculptures;5,41;5,73
+Objects_161_v;Objects;161;v;Kettle;5,44;4,48
+Objects_162_h;Objects;162;h;Suitcases;5,44;4,98
+Objects_163_v;Objects;163;v;Wardrobe;5,53;4,72
+Objects_164_h;Objects;164;h;Objects;4,25;5,12
+Objects_165_v;Objects;165;v;Wooden Bellows;4,48;5,77
+Objects_166_h;Objects;166;h;Shoes;5,83;4,59
+Objects_167_v;Objects;167;v;Sculptures;5,66;4,63
+Objects_168_v;Objects;168;v;Door;5,51;5,00
+Objects_169_h;Objects;169;h;Baby Carriages;6,37;4,28
+Objects_170_v;Objects;170;v;Toilet;3,46;5,88
+Objects_171_h;Objects;171;h;Drums;7,06;5,39
+Objects_172_v;Objects;172;v;Microphone;5,31;4,86
+Objects_173_h;Objects;173;h;Fence;3,76;5,31
+Objects_174_v;Objects;174;v;Guitar;6,62;5,04
+Objects_175_h;Objects;175;h;Garbage;4,43;5,00
+Objects_176_v;Objects;176;v;Toy;5,15;5,00
+Objects_177_h;Objects;177;h;Cables;4,57;5,24
+Objects_178_v;Objects;178;v;Candlestick;5,70;4,28
+Objects_179_h;Objects;179;h;Objects;4,85;4,98
+Objects_180_v;Objects;180;v;Coffee Table;7,17;3,10
+Objects_181_h;Objects;181;h;Towel;4,34;5,60
+Objects_182_v;Objects;182;v;Shower;3,91;5,53
+Objects_183_h;Objects;183;h;Chessboards;6,69;4,33
+Objects_184_v;Objects;184;v;Dustbin;4,18;5,05
+Objects_185_h;Objects;185;h;Sculpture;5,18;5,04
+Objects_186_v;Objects;186;v;Thermometer;4,55;4,83
+Objects_187_h;Objects;187;h;Toys And Clothes;4,73;4,96
+Objects_188_v;Objects;188;v;Dustbin;3,45;5,49
+Objects_189_h;Objects;189;h;Shoes;5,07;4,93
+Objects_190_h;Objects;190;h;Toy;7,20;3,60
+Objects_191_v;Objects;191;v;Plastic Duck;5,23;4,63
+Objects_192_h;Objects;192;h;Plastic Duck;7,18;4,11
+Objects_193_v;Objects;193;v;Staircase;6,00;5,26
+Objects_194_h;Objects;194;h;Glasses;4,73;5,13
+Objects_195_v;Objects;195;v;Violin;6,47;3,68
+Objects_196_h;Objects;196;h;Watch Straps;5,09;4,96
+Objects_197_v;Objects;197;v;Knife;5,00;5,13
+Objects_198_h;Objects;198;h;Coins;6,02;4,45
+Objects_199_v;Objects;199;v;Candlestick;6,32;4,00
+Objects_200_h;Objects;200;h;Telephone;5,78;4,47
+Objects_201_v;Objects;201;v;Cloths;6,00;3,91
+Objects_202_h;Objects;202;h;Cannon;4,14;6,16
+Objects_203_v;Objects;203;v;Carousel;6,00;4,82
+Objects_204_h;Objects;204;h;Containers;5,13;4,63
+Objects_205_h;Objects;205;h;Sculpture;6,51;4,59
+Objects_206_h;Objects;206;h;Sink;3,89;5,43
+Objects_207_h;Objects;207;h;Garbage;3,78;5,13
+Objects_208_h;Objects;208;h;Wood;5,13;4,92
+Objects_209_h;Objects;209;h;Kitchen Utensils;5,80;4,68
+Objects_210_h;Objects;210;h;Window Grating;4,85;4,63
+Objects_211_h;Objects;211;h;Wheel;5,09;4,87
+Objects_212_h;Objects;212;h;Broken Window;3,76;5,73
+Objects_213_h;Objects;213;h;Fence;4,95;5,25
+Objects_214_h;Objects;214;h;Potteries;5,78;4,11
+Objects_215_v;Objects;215;v;Toilet;4,08;5,22
+Objects_216_h;Objects;216;h;Pans;4,61;5,26
+Objects_217_h;Objects;217;h;Candle;6,57;4,41
+Objects_218_h;Objects;218;h;Garbage;3,41;5,84
+Objects_219_h;Objects;219;h;Glass;5,92;4,25
+Objects_220_h;Objects;220;h;Metal Objects;5,89;4,01
+Objects_221_h;Objects;221;h;Suitcases;5,61;4,87
+Objects_222_h;Objects;222;h;Pipes;4,73;5,02
+Objects_223_h;Objects;223;h;Light Bulb;5,20;4,82
+Objects_224_h;Objects;224;h;Hook;4,89;4,91
+Objects_225_h;Objects;225;h;Chain;4,13;5,33
+Objects_226_h;Objects;226;h;Lighter;4,98;5,00
+Objects_227_v;Objects;227;v;Shelter;5,57;4,52
+Objects_228_h;Objects;228;h;Pipes;4,55;5,26
+Objects_229_h;Objects;229;h;Drawer;3,90;5,70
+Objects_230_h;Objects;230;h;Boots;5,32;5,07
+Objects_231_h;Objects;231;h;Boots;5,21;4,64
+Objects_232_h;Objects;232;h;Handbag;3,55;5,63
+Objects_233_h;Objects;233;h;Bottle;3,57;5,83
+Objects_234_h;Objects;234;h;Door Handle;4,43;4,97
+Objects_235_h;Objects;235;h;Doorbell;3,96;5,27
+Objects_236_h;Objects;236;h;Garbage;4,06;5,09
+Objects_237_h;Objects;237;h;Mug;5,50;4,27
+Objects_238_h;Objects;238;h;Dishes;4,65;5,24
+Objects_239_v;Objects;239;v;Lock;5,00;4,74
+Objects_240_h;Objects;240;h;Bike Rack;6,37;4,65
+Objects_241_h;Objects;241;h;Chair;5,94;4,69
+Objects_242_h;Objects;242;h;Dishes;4,09;5,17
+Objects_243_h;Objects;243;h;Bottle;3,52;5,65
+Objects_244_h;Objects;244;h;Car Pedals;5,07;4,98
+Objects_245_h;Objects;245;h;Keyboard;5,20;4,88
+Objects_246_h;Objects;246;h;Mouse;4,90;4,73
+Objects_247_h;Objects;247;h;Mouse;5,17;4,81
+Objects_248_h;Objects;248;h;Switch;4,37;5,15
+Objects_249_v;Objects;249;v;Bottles;5,58;4,27
+Objects_250_h;Objects;250;h;Sculpture;5,98;4,91
+Objects_251_v;Objects;251;v;Buttons;4,83;4,74
+Objects_252_h;Objects;252;h;Objects;4,41;5,28
+Objects_253_v;Objects;253;v;Shoes;3,64;5,51
+Objects_254_h;Objects;254;h;Handwork;7,00;4,66
+Objects_255_v;Objects;255;v;Shoes;6,13;4,57
+Objects_256_h;Objects;256;h;Sculptures;6,48;4,19
+Objects_257_h;Objects;257;h;Sculptures;5,68;4,37
+Objects_258_h;Objects;258;h;Shoes;5,78;4,56
+Objects_259_h;Objects;259;h;Shoes;5,93;4,72
+Objects_260_h;Objects;260;h;Toy;6,75;4,45
+Objects_261_h;Objects;261;h;Shoes;6,20;5,02
+Objects_262_h;Objects;262;h;Fountain;6,81;4,62
+Objects_263_h;Objects;263;h;Handwork;6,98;4,43
+Objects_264_v;Objects;264;v;Carousel;6,60;5,08
+Objects_265_h;Objects;265;h;Handwork;6,19;4,38
+Objects_266_h;Objects;266;h;Sculpture;6,36;5,07
+Objects_267_v;Objects;267;v;Shoes;6,65;4,44
+Objects_268_h;Objects;268;h;Leaves;6,31;4,41
+Objects_269_h;Objects;269;h;Sculpture;5,46;5,24
+Objects_270_h;Objects;270;h;Toys;6,98;4,32
+Objects_271_h;Objects;271;h;Toys;5,98;4,36
+Objects_272_h;Objects;272;h;Sculptures;7,06;4,52
+Objects_273_h;Objects;273;h;Snowman;6,16;4,84
+Objects_274_h;Objects;274;h;Car;5,12;5,62
+Objects_275_v;Objects;275;v;Crashed Car;3,58;5,82
+Objects_276_h;Objects;276;h;Car;5,41;4,55
+Objects_277_h;Objects;277;h;Rusted Car;4,59;4,98
+Objects_278_h;Objects;278;h;Bicycles;5,48;4,49
+Objects_279_h;Objects;279;h;Moped;5,43;4,88
+Objects_280_v;Objects;280;v;Icicle;4,82;5,07
+Objects_281_h;Objects;281;h;Car;4,56;4,96
+Objects_282_h;Objects;282;h;Rust;4,36;5,09
+Objects_283_h;Objects;283;h;Crashed Car;2,62;6,89
+Objects_284_h;Objects;284;h;Car;3,77;5,96
+Objects_285_h;Objects;285;h;Crashed Motorcycle;2,73;6,53
+Objects_286_h;Objects;286;h;Rusted Car;4,33;5,42
+Objects_287_h;Objects;287;h;Bicycle Frame;4,06;5,26
+Objects_288_h;Objects;288;h;Scooter;5,93;4,90
+Objects_289_h;Objects;289;h;Bicycle;5,92;4,89
+Objects_290_h;Objects;290;h;Jet Planes;6,49;5,96
+Objects_291_h;Objects;291;h;Car;7,04;6,79
+Objects_292_h;Objects;292;h;Bicycle;5,75;4,83
+Objects_293_h;Objects;293;h;Rusted Car;4,65;5,23
+Objects_294_h;Objects;294;h;Bicycle;5,94;4,90
+Objects_295_h;Objects;295;h;Bicycle;5,71;4,57
+Objects_296_h;Objects;296;h;Car;5,15;4,98
+Objects_297_h;Objects;297;h;Scooter;6,00;4,28
+Objects_298_h;Objects;298;h;Car;4,67;5,46
+Objects_299_h;Objects;299;h;Bicycle;5,08;4,92
+Objects_300_h;Objects;300;h;Jet Planes;6,55;6,41
+Objects_301_h;Objects;301;h;Jet Planes;6,17;5,92
+Objects_302_h;Objects;302;h;Bicycle;5,65;4,75
+Objects_303_h;Objects;303;h;Bicycle;5,92;4,57
+Objects_304_h;Objects;304;h;Bicycle;6,21;4,31
+Objects_305_h;Objects;305;h;Scooter;5,87;4,78
+Objects_306_h;Objects;306;h;Boat;5,41;4,78
+Objects_307_v;Objects;307;v;Mower;5,07;4,79
+Objects_308_h;Objects;308;h;Car;5,02;4,83
+Objects_309_h;Objects;309;h;Motorcycle;6,00;5,32
+Objects_310_h;Objects;310;h;Car;5,28;4,66
+Objects_311_h;Objects;311;h;Bus;5,04;4,98
+Objects_312_h;Objects;312;h;Car;5,16;4,89
+Objects_313_h;Objects;313;h;Car;5,46;4,41
+Objects_314_h;Objects;314;h;Car;4,93;4,70
+Objects_315_h;Objects;315;h;Trains;6,23;4,45
+Objects_316_h;Objects;316;h;Bicycle;5,95;4,87
+Objects_317_h;Objects;317;h;Helicopter;6,26;4,96
+Objects_318_h;Objects;318;h;Car;3,96;5,53
+Objects_319_h;Objects;319;h;Bicycle;6,24;5,02
+Objects_320_h;Objects;320;h;Car;6,38;4,67
+Objects_321_h;Objects;321;h;Car;6,53;4,39
+Objects_322_h;Objects;322;h;Car;6,42;5,33
+Objects_323_h;Objects;323;h;Car;6,96;5,02
+Objects_324_h;Objects;324;h;Ship;6,08;5,34
+Objects_325_h;Objects;325;h;Cars;7,40;4,17
+Objects_326_h;Objects;326;h;Sailboat;7,73;3,35
+Objects_327_h;Objects;327;h;Boats;7,67;3,55
+Objects_328_h;Objects;328;h;Pig;3,78;6,27
+People_001_h;People;1;h;Sad Woman;2,69;6,84
+People_002_v;People;2;v;Car Crash;2,96;6,40
+People_003_h;People;3;h;Car Crash;2,60;7,11
+People_004_h;People;4;h;Car Crash;2,85;6,49
+People_005_h;People;5;h;Accident;3,74;6,94
+People_006_h;People;6;h;Accident;3,65;7,13
+People_007_h;People;7;h;Car Crash;3,15;6,45
+People_008_h;People;8;h;Train Crash;2,72;6,36
+People_009_h;People;9;h;Car Crash;2,70;6,51
+People_010_h;People;10;h;Accident;3,37;6,14
+People_011_h;People;11;h;Earthquake;4,30;6,52
+People_012_h;People;12;h;Crashed Plane;3,16;5,91
+People_013_v;People;13;v;Car Crash;2,53;6,65
+People_014_h;People;14;h;Accident;4,33;5,56
+People_015_h;People;15;h;Accident;3,77;6,19
+People_016_h;People;16;h;Car Crash;2,45;7,04
+People_017_h;People;17;h;Fire;2,96;7,44
+People_018_h;People;18;h;Accident;4,44;6,33
+People_019_v;People;19;v;Broken Leg;2,80;6,43
+People_020_h;People;20;h;Car Crash;2,43;6,78
+People_021_h;People;21;h;Crashed Motorcycle;2,70;6,71
+People_022_h;People;22;h;Car Crash;2,13;6,48
+People_023_h;People;23;h;Accident;3,06;7,33
+People_024_v;People;24;v;Butcher;3,91;5,81
+People_025_v;People;25;v;Butcher;3,43;6,31
+People_026_h;People;26;h;Zoo;7,70;4,54
+People_027_h;People;27;h;Bedouin;6,18;4,52
+People_028_h;People;28;h;Dog Cart;5,48;6,54
+People_029_h;People;29;h;Dog Cart;6,32;6,73
+People_030_h;People;30;h;Elephants;7,38;5,16
+People_031_v;People;31;v;Burns;2,28;6,92
+People_032_h;People;32;h;Child;4,18;6,27
+People_033_h;People;33;h;Child;3,65;6,14
+People_034_h;People;34;h;Infant;4,29;6,62
+People_035_h;People;35;h;Children;4,52;5,16
+People_036_h;People;36;h;Infant In Incubator;4,77;5,73
+People_037_h;People;37;h;Infant In Incubator;3,65;6,92
+People_038_h;People;38;h;Assault;1,73;8,05
+People_039_v;People;39;v;Starved Child;2,76;6,49
+People_040_h;People;40;h;Infant In Incubator;4,36;6,69
+People_041_h;People;41;h;Child;6,70;4,57
+People_042_h;People;42;h;Child;5,31;5,32
+People_043_h;People;43;h;Children;7,64;4,33
+People_044_h;People;44;h;Child;6,85;3,77
+People_045_h;People;45;h;Boy;6,56;4,23
+People_046_h;People;46;h;Children;6,94;4,19
+People_047_h;People;47;h;Child;6,28;3,86
+People_048_h;People;48;h;Girl;6,30;4,16
+People_049_h;People;49;h;Girl;6,28;4,27
+People_050_v;People;50;v;Mother And Child;7,34;3,78
+People_051_h;People;51;h;Child;7,92;4,81
+People_052_h;People;52;h;Cat And Child;7,81;4,54
+People_053_h;People;53;h;Child;4,17;5,94
+People_054_h;People;54;h;Cat And Child;7,55;3,20
+People_055_h;People;55;h;Child;7,69;4,20
+People_056_h;People;56;h;Man;5,53;4,85
+People_057_h;People;57;h;Marketplace;4,47;5,74
+People_058_h;People;58;h;Butcher;3,11;6,57
+People_059_v;People;59;v;Butcher Woman;4,38;5,75
+People_060_v;People;60;v;Butcher Woman;4,27;5,76
+People_061_h;People;61;h;Meat;4,76;5,33
+People_062_v;People;62;v;Butcher;3,83;5,78
+People_063_h;People;63;h;Fruits;6,05;4,84
+People_064_h;People;64;h;Fruit Stall;6,50;4,13
+People_065_h;People;65;h;Drugs;4,77;5,38
+People_066_v;People;66;v;Fish Stall;4,93;5,76
+People_067_h;People;67;h;Fruit Stall;7,52;4,54
+People_068_h;People;68;h;Pizza;7,11;5,16
+People_069_h;People;69;h;Fruit Stall;6,71;4,78
+People_070_v;People;70;v;Gun;3,45;6,67
+People_071_h;People;71;h;Man With Gun;3,35;6,31
+People_072_v;People;72;v;Knuckle Duster;3,38;6,24
+People_073_v;People;73;v;Man With Gun;3,95;6,56
+People_074_v;People;74;v;Soldier;3,88;6,42
+People_075_v;People;75;v;Swastika;2,75;6,63
+People_076_h;People;76;h;Gun;4,43;5,96
+People_077_v;People;77;v;Injection;3,11;6,76
+People_078_v;People;78;v;Bottle;4,98;5,09
+People_079_h;People;79;h;Scythe;4,08;5,97
+People_080_h;People;80;h;Cigarette;4,02;5,13
+People_081_v;People;81;v;Injection;3,81;6,38
+People_082_h;People;82;h;Concentration Camp;3,00;5,76
+People_083_h;People;83;h;Cigarette;3,56;5,54
+People_084_h;People;84;h;Soldier;3,23;6,71
+People_085_h;People;85;h;Cigarette;3,17;5,83
+People_086_h;People;86;h;Soldier;3,06;7,02
+People_087_h;People;87;h;Cigarette;3,57;5,71
+People_088_v;People;88;v;Soldier;3,24;6,96
+People_089_h;People;89;h;Shoes;6,36;4,71
+People_090_v;People;90;v;Excrement;3,40;6,22
+People_091_h;People;91;h;Keyboard;5,26;5,04
+People_092_v;People;92;v;Stall;6,47;4,90
+People_093_h;People;93;h;Huts;6,17;4,28
+People_094_h;People;94;h;Garbage;3,20;5,94
+People_095_h;People;95;h;Beach;5,24;5,17
+People_096_h;People;96;h;Ski Slope;7,78;5,40
+People_097_h;People;97;h;Builder;5,27;4,80
+People_098_h;People;98;h;Fire;3,27;6,96
+People_099_h;People;99;h;River;6,88;4,72
+People_100_h;People;100;h;Firemen;5,15;6,06
+People_101_h;People;101;h;Boats;6,86;4,45
+People_102_h;People;102;h;City;5,88;4,98
+People_103_h;People;103;h;Beach;7,77;3,80
+People_104_h;People;104;h;Boats;5,38;4,12
+People_105_h;People;105;h;Building;6,14;3,98
+People_106_v;People;106;v;City;6,76;4,28
+People_107_h;People;107;h;Palm Trees;7,38;3,65
+People_108_h;People;108;h;River;7,52;3,57
+People_109_h;People;109;h;Beach;6,77;3,56
+People_110_h;People;110;h;Hill;8,11;2,68
+People_111_h;People;111;h;Hill;7,18;4,55
+People_112_h;People;112;h;Cabins;7,32;3,13
+People_113_h;People;113;h;Seaside;8,05;3,40
+People_114_h;People;114;h;Mist;5,89;4,63
+People_115_h;People;115;h;Desert;7,90;4,22
+People_116_h;People;116;h;Beach;7,67;3,46
+People_117_h;People;117;h;Homeless Man;3,94;5,32
+People_118_h;People;118;h;Homeless Man;2,48;5,98
+People_119_h;People;119;h;Homeless People;3,00;5,70
+People_120_h;People;120;h;Homeless Man;3,36;5,81
+People_121_h;People;121;h;Homeless Man;3,31;5,94
+People_122_h;People;122;h;Elderly Woman;4,76;4,92
+People_123_h;People;123;h;Fireman;3,47;6,24
+People_124_h;People;124;h;Police Arresting Someone;3,02;6,35
+People_125_h;People;125;h;Homeless Man;2,69;6,14
+People_126_h;People;126;h;Homeless People;3,55;5,98
+People_127_h;People;127;h;Assault;2,15;7,62
+People_128_h;People;128;h;Wounded Child;2,23;7,75
+People_129_h;People;129;h;Wound;3,52;6,08
+People_130_h;People;130;h;Diver;7,17;5,74
+People_131_h;People;131;h;Man And Dog;4,28;5,71
+People_132_h;People;132;h;Football Players;4,62;6,33
+People_133_h;People;133;h;Flood;3,00;6,24
+People_134_h;People;134;h;Flood;3,80;5,76
+People_135_h;People;135;h;Wound;4,62;5,22
+People_136_h;People;136;h;Drunk;2,60;6,10
+People_137_h;People;137;h;Tattooed Man;3,86;5,65
+People_138_h;People;138;h;Elderly Man;5,92;3,72
+People_139_h;People;139;h;Drowning Child;4,16;6,53
+People_140_h;People;140;h;Wounded People;2,42;6,48
+People_141_h;People;141;h;Sad Peiople;4,15;5,53
+People_142_h;People;142;h;Homeless Man;2,85;6,04
+People_143_h;People;143;h;Homeless Woman;2,57;6,19
+People_144_h;People;144;h;Homeless Man;2,96;6,29
+People_145_h;People;145;h;Homeless Man;3,11;5,77
+People_146_h;People;146;h;Garbage Collectors;4,94;4,90
+People_147_h;People;147;h;Patient;3,13;6,22
+People_148_h;People;148;h;Friends;5,59;4,69
+People_149_h;People;149;h;Man And Dog;5,49;4,21
+People_150_h;People;150;h;Elderly Man;5,21;4,64
+People_151_h;People;151;h;Woman;6,18;4,53
+People_152_h;People;152;h;Shadows;7,16;4,25
+People_153_h;People;153;h;Man And Dog;6,43;4,00
+People_154_h;People;154;h;Friends;7,59;2,89
+People_155_h;People;155;h;Legs;5,36;5,61
+People_156_h;People;156;h;Foot;3,96;5,81
+People_157_h;People;157;h;Elderly Woman;6,29;4,51
+People_158_h;People;158;h;Woman And Pigeons;6,06;4,56
+People_159_h;People;159;h;Elderly Man;5,44;4,43
+People_160_h;People;160;h;Snowboarder;7,40;5,25
+People_161_h;People;161;h;Skier;7,51;4,82
+People_162_h;People;162;h;Woman Jogging;6,76;5,14
+People_163_v;People;163;v;Elderly Man;6,02;4,43
+People_164_h;People;164;h;Foot;4,84;5,23
+People_165_v;People;165;v;People On Motorcycle;6,06;5,00
+People_166_h;People;166;h;Man;6,09;4,33
+People_167_h;People;167;h;Painters;6,29;4,73
+People_168_h;People;168;h;Beach;7,39;3,58
+People_169_h;People;169;h;Elderly Couple;7,58;3,40
+People_170_v;People;170;v;Beggar Woman;4,12;5,73
+People_171_v;People;171;v;Woman;6,93;5,36
+People_172_v;People;172;v;Man Swinging;8,02;4,53
+People_173_h;People;173;h;Diver;6,98;4,75
+People_174_v;People;174;v;Father And Child;7,52;4,90
+People_175_h;People;175;h;Skaters;7,21;6,15
+People_176_h;People;176;h;Father And Child;7,49;3,16
+People_177_h;People;177;h;Skater;6,43;5,57
+People_178_h;People;178;h;Roller Skater;6,85;5,53
+People_179_h;People;179;h;Kayakers;7,25;3,80
+People_180_h;People;180;h;Surfer;7,06;5,52
+People_181_v;People;181;v;Swimming Pool;7,48;4,76
+People_182_h;People;182;h;Kite Surfers;7,12;4,88
+People_183_h;People;183;h;Parachutist;7,31;5,53
+People_184_h;People;184;h;Feet;5,91;4,96
+People_185_h;People;185;h;Swimming Pool;7,63;4,98
+People_186_h;People;186;h;Elderly Men;7,55;3,47
+People_187_h;People;187;h;Woman Jumping;7,84;5,78
+People_188_h;People;188;h;Diver;7,55;4,51
+People_189_h;People;189;h;Kite Surfers;7,06;6,03
+People_190_h;People;190;h;Diver;8,22;4,68
+People_191_h;People;191;h;Hill;7,31;4,85
+People_192_h;People;192;h;Swimming Pool;7,17;4,76
+People_193_h;People;193;h;Kite Surfer;7,30;6,00
+People_194_h;People;194;h;Rickshaw;6,63;4,78
+People_195_h;People;195;h;Kayakers;7,09;3,94
+People_196_h;People;196;h;Swimming Pool;7,58;5,85
+People_197_h;People;197;h;Pimple;2,97;5,97
+People_198_h;People;198;h;Mutilated Leg;1,58;7,56
+People_199_v;People;199;v;Surgery;2,79;7,13
+People_200_h;People;200;h;Dead Bodies;2,27;6,93
+People_201_v;People;201;v;Accident;1,87;7,51
+People_202_h;People;202;h;Surgery;2,58;7,11
+People_203_v;People;203;v;Surgery;4,73;6,29
+People_204_v;People;204;v;Skin Inflammation;2,40;6,78
+People_205_v;People;205;v;Drowned Man;2,09;7,20
+People_206_h;People;206;h;Burns;3,36;6,32
+People_207_v;People;207;v;Burns;3,56;6,59
+People_208_h;People;208;h;Dead Body;1,85;7,67
+People_209_v;People;209;v;Surgery;2,73;6,73
+People_210_h;People;210;h;Plaster;3,84;5,74
+People_211_v;People;211;v;Mutilated Hand;1,88;7,63
+People_212_h;People;212;h;Skeletons;3,67;6,57
+People_213_v;People;213;v;Skin Disease;2,85;6,38
+People_214_h;People;214;h;Skeletons;3,41;6,42
+People_215_h;People;215;h;Disease;2,59;6,45
+People_216_h;People;216;h;Surgery;2,70;7,10
+People_217_h;People;217;h;Surgery;3,14;6,31
+People_218_v;People;218;v;Mutilated Hand;1,84;7,52
+People_219_h;People;219;h;Dirty Hand;3,54;6,06
+People_220_h;People;220;h;Disease;1,98;7,49
+People_221_h;People;221;h;Surgery;1,88;7,57
+People_222_h;People;222;h;Hooked Skin;2,17;7,63
+People_223_h;People;223;h;Surgery;3,18;6,61
+People_224_h;People;224;h;Surgery;3,49;6,56
+People_225_h;People;225;h;Dead Body;2,50;6,82
+People_226_h;People;226;h;Accident;1,81;7,40
+People_227_h;People;227;h;Burns;1,86;7,18
+People_228_h;People;228;h;Surgery;3,71;6,69
+People_229_h;People;229;h;Surgery;3,90;6,80
+People_230_h;People;230;h;Surgery;3,43;6,60
+People_231_h;People;231;h;Skeleton;4,10;6,16
+People_232_h;People;232;h;Surgery;3,63;6,42
+People_233_h;People;233;h;Dead Animal;2,47;6,92
+People_234_h;People;234;h;Surgery;4,06;6,38
+People_235_h;People;235;h;Dead Body;2,67;6,57
+People_236_v;People;236;v;Skeletons;4,38;5,98
+People_237_h;People;237;h;Face Skin;1,60;7,39
+People_238_h;People;238;h;Dead Bodies;1,33;7,54
+People_239_h;People;239;h;Skin Disease;2,40;6,66
+People_240_h;People;240;h;Skin Disease;1,82;7,05
+People_241_h;People;241;h;Eye Disease;2,52;6,90
+People_242_v;People;242;v;Dead Sheep;2,86;7,04
+People_243_h;People;243;h;Eye Disease;2,84;6,82
+People_244_v;People;244;v;Dentist;3,56;6,42
+People_245_v;People;245;v;Skin Disease;3,42;5,90
+People_246_h;People;246;h;Black Eye;1,96;7,11
+People_247_v;People;247;v;Ear Puncture;4,76;6,20
+People_248_h;People;248;h;Jet Planes;6,04;5,83
+People_249_h;People;249;h;Airplane;5,64;5,67
+People_250_h;People;250;h;Boat;6,76;2,98
